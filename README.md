@@ -1,12 +1,12 @@
 <h1>🔮 Tarot Virtual em Python & SQL 🔮</h1>
 
-<h2>- Projeto criado no **Jupyter Notebook** que realiza o sorteio aleátorio de uma carta no Tarot, tendo como probabilidade exata de **25% de chance** da carta sorteada sair em posição invertida.</h2>
+## Projeto criado no Jupyter Notebook que realiza o sorteio aleátorio de uma carta no Tarot, tendo como probabilidade exata de 25% de chance** da carta sorteada sair em posição invertida.##
 
 
 <h2>💻 Tecnologias 💻</h2>
-* Python 3 
-* SQLite (SQL)
-* Jupyter Notebook
+- * Python 3 
+- * SQLite (SQL)
+- * Jupyter Notebook
 
 
 <h2>👩‍💻 Na prática 👩‍💻</h2>
